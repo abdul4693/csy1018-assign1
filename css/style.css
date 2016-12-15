@@ -1,0 +1,14 @@
+html, body {
+
+  background-color: rgb(251, 234, 218);
+}
+
+
+
+.text-logo {
+  background: white;
+  font-family:'Dekko', cursive;
+  text-align: left;
+  text-transform: capitalize;
+  font-size: 40px;
+}
